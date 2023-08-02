@@ -43,7 +43,8 @@ This is a web based application developed for ArtificialIintelligence
 
 
 ## Tech Stack 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Hugging Face
+- Open AI
 - HTML
 - CSS
 - Bootstrap
